@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1193991327 source:d:\workcpu\test_yacc\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1201015692 source:d:\workcpu\test_yacc\test\lex.yy.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<io.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1201015702 source:d:\workcpu\test_yacc\test\frame.tab.c
+	<stdio.h>
+	<alloca.h>
+	<malloc.h>
+
