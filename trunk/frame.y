@@ -42,7 +42,7 @@ char testbuf[256];
 %token EOF      "@"
 
 // a number
-#NUM
+%NUM
 
 %token
 %%
