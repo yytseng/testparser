@@ -1,11 +1,11 @@
 
-/*  A Bison parser, made from frame.y
+/*  A Bison parser, made from d:\workcpu\testparser\frame.y
     by GNU Bison version 1.28  */
 
 #define YYBISON 1  /* Identify Bison output.  */
 
 
-#line 1 "frame.y"
+#line 1 "d:\workcpu\testparser\frame.y"
 
 void yyerror(const char *s);
 #ifndef YYSTYPE
@@ -877,7 +877,7 @@ yyerrhandle:
     }
   return 1;
 }
-#line 7 "frame.y"
+#line 7 "d:\workcpu\testparser\frame.y"
 
 void yyerror(const char *s)
 {
