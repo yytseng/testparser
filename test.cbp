@@ -31,10 +31,12 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="frame.l" />
 		<Unit filename="frame.tab.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="frame.tab.h" />
+		<Unit filename="frame.y" />
 		<Unit filename="lex.yy.c">
 			<Option compilerVar="CC" />
 		</Unit>

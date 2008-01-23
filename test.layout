@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="lex.yy.c" open="1" top="0" tabpos="4">
-		<Cursor position="25518" topLine="940" />
+	<File name="frame.l" open="1" top="0" tabpos="4">
+		<Cursor position="78" topLine="0" />
 	</File>
-	<File name="main.c" open="1" top="1" tabpos="1">
-		<Cursor position="111" topLine="0" />
+	<File name="frame.tab.c" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="frame.y" open="1" top="1" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="lex.yy.c" open="1" top="0" tabpos="2">
+		<Cursor position="25559" topLine="909" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="60" topLine="0" />
 	</File>
 </CodeBlocks_layout_file>

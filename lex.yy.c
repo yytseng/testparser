@@ -357,9 +357,9 @@ static char *yy_last_accepting_cpos;
 #define YY_MORE_ADJ 0
 #define YY_RESTORE_YY_MORE_OFFSET
 char *yytext;
-#line 1 "frame.l"
+#line 1 "D:\\workcpu\\testparser\\frame.l"
 #define INITIAL 0
-#line 2 "frame.l"
+#line 2 "D:\\workcpu\\testparser\\frame.l"
 int yywrap(void);
 #line 365 "lex.yy.c"
 
@@ -512,7 +512,7 @@ YY_DECL
 	register char *yy_cp, *yy_bp;
 	register int yy_act;
 
-#line 4 "frame.l"
+#line 4 "D:\\workcpu\\testparser\\frame.l"
 
 #line 518 "lex.yy.c"
 
@@ -599,7 +599,7 @@ do_action:	/* This label is used only to access EOF actions. */
 
 case 1:
 YY_RULE_SETUP
-#line 5 "frame.l"
+#line 5 "D:\\workcpu\\testparser\\frame.l"
 ECHO;
 	YY_BREAK
 #line 606 "lex.yy.c"
@@ -1488,7 +1488,7 @@ int main()
 	return 0;
 	}
 #endif
-#line 5 "frame.l"
+#line 5 "D:\\workcpu\\testparser\\frame.l"
 
 int yywrap(void)
 {
